@@ -10,4 +10,4 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick and simple
 >>>>>>> feature1
 
-Git can merge
+Git can take merge
