@@ -11,3 +11,5 @@ Creating a new branch is quick and simple
 >>>>>>> feature1
 
 Git can take merge
+
+wing603 join git_work group~~
